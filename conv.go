@@ -3,9 +3,8 @@ package bmp
 import (
 	"errors"
 	"fmt"
-	"github.com/simpart/tetraring4go/binctl"
+	"github.com/simpart/ttrgo-binctl"
 	"runtime"
-	//"unsafe"
 )
 
 const white_val = 15

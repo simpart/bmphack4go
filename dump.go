@@ -2,7 +2,7 @@ package bmp
 
 import (
 	"fmt"
-	"github.com/simpart/tetraring4go/binctl"
+	"github.com/simpart/ttrgo-binctl"
 	"runtime"
 	"unsafe"
 )

@@ -6,7 +6,7 @@
 package bmp
 
 import (
-	"github.com/simpart/tetraring4go/binctl"
+	"github.com/simpart/ttrgo-binctl"
 )
 
 type FileHeader struct {
